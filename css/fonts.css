@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Korolev';
+	src: url('../fonts/Korolev Compressed W04 Bold.eot');
+	src: url('../fonts/Korolev Compressed W04 Bold.eot?iefix') format('eot'),
+	url('../fonts/Korolev Compressed W04 Bold.woff') format('woff'),
+	url('../fonts/Korolev Compressed W04 Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
